@@ -1,0 +1,9 @@
+pandas
+numpy
+requests
+flask
+sqlalchemy
+pytz
+datetime
+setuptools
+pytest
