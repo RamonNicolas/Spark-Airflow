@@ -21,7 +21,7 @@ Organize readme and folders
 
 ## Day 05
 
-Organize Dockerfile and Kubernetes
+Organize Dockerfile and possible (Kubernetes)
 
 ## Day 06
 
