@@ -21,5 +21,8 @@ Organize readme and folders
 
 ## Day 05
 
-Finished the project
+Organize Dockerfile and Kubernetes
 
+## Day 06
+
+Finished the project
